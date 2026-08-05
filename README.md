@@ -11,7 +11,7 @@ The project demonstrates data cleaning, data modeling, DAX calculations, and int
 
 ## 🚀 Dashboard Preview
 
-![Dashboard Preview](Screenshot 2026-08-01 182646)
+![Dashboard Preview](Screenshot 2026-08-01 182646.png)
 
 ---
 
