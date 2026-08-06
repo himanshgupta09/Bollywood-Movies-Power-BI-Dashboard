@@ -74,7 +74,7 @@ The project demonstrates data cleaning, data modeling, DAX calculations, and int
 
 **Himanshu Gupta**
 
-MCA Graduate | Aspiring Data Analyst
+MCA Graduate 
 
 Skills:
 - Power BI
